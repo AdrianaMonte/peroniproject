@@ -1,2 +1,2 @@
 # peroniproject
-Peroni's project group repository!
+Ciao, il file csv all'interno ha 7 colonne. 
